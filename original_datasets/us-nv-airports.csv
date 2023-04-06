@@ -1,0 +1,383 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+3631,KLAS,large_airport,"Harry Reid International Airport",36.083361,-115.151817,2181,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",1,KLAS,LAS,LAS,https://www.harryreidairport.com/,https://en.wikipedia.org/wiki/Harry_Reid_International_Airport,"McCarran International Airport",1068475,2022-10-18T19:05:10+00:00
+3853,KRNO,large_airport,"Reno Tahoe International Airport",39.49909973144531,-119.76799774169922,4415,NA,"United States",US,Nevada,US-NV,NV,Reno,1,KRNO,RNO,RNO,,https://en.wikipedia.org/wiki/Reno-Tahoe_International_Airport,,1050,2009-02-03T07:40:35+00:00
+21321,KVGT,medium_airport,"North Las Vegas Metropolitan International Airport",36.210701,-115.194,2205,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,KVGT,VGT,VGT,http://www.vgt.aero/index.html,https://en.wikipedia.org/wiki/North_Las_Vegas_Airport,"Northtown Airport, Las Vegas North Air Terminal",250,2021-11-21T15:04:52+00:00
+20068,KHND,small_airport,"Henderson Executive Airport",35.9728012085,-115.134002686,2492,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,KHND,HSH,HND,http://www.hnd.aero/,https://en.wikipedia.org/wiki/Henderson_Executive_Airport,"L15, Sky Harbor Airport",50,2015-11-14T08:04:58+00:00
+3508,KEKO,medium_airport,"Elko Regional Airport",40.82490158081055,-115.79199981689453,5140,NA,"United States",US,Nevada,US-NV,NV,Elko,1,KEKO,EKO,EKO,,https://en.wikipedia.org/wiki/Elko_Regional_Airport,,750,2008-06-13T14:30:04+00:00
+20493,KMEV,small_airport,"Minden-Tahoe Airport",39.00030136,-119.7509995,4722,NA,"United States",US,Nevada,US-NV,NV,Minden,0,KMEV,MEV,MEV,http://mindentahoeairport.com/,https://en.wikipedia.org/wiki/Minden%E2%80%93Tahoe_Airport,,50,2015-03-03T00:29:47+00:00
+18945,K61B,medium_airport,"Boulder City Municipal Airport",35.947498,-114.861,2201,NA,"United States",US,Nevada,US-NV,NV,"Boulder City",0,KBVU,BLD,BVU,,https://en.wikipedia.org/wiki/Boulder_City_Municipal_Airport,61B,250,2022-10-23T22:46:25+00:00
+18853,K4SD,small_airport,"Reno-Stead Airport",39.6674,-119.875999,5050,NA,"United States",US,Nevada,US-NV,NV,Reno,0,KRTS,,RTS,http://renoairport.com/reno-stead,https://en.wikipedia.org/wiki/Reno_Stead_Airport,4SD,50,2022-09-19T14:12:33+00:00
+19577,KCXP,small_airport,"Carson Airport",39.1922,-119.734001,4697,NA,"United States",US,Nevada,US-NV,NV,"Carson City",0,KCXP,CSN,CXP,http://flycarsoncity.com/,https://en.wikipedia.org/wiki/Carson_Airport,"O04, Carson City Airport",50,2022-10-23T23:16:57+00:00
+21216,KTPH,medium_airport,"Tonopah Airport",38.06019974,-117.086998,5430,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,KTPH,TPH,TPH,http://www.tonopahnevada.com/airport.html,https://en.wikipedia.org/wiki/Tonopah_Airport,,250,2015-12-03T22:57:14+00:00
+20689,KO43,small_airport,"Yerington Municipal Airport",39.0041007996,-119.157997131,4378,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,O43,EYR,O43,http://www.yerington.net/index.aspx?nid=86,https://en.wikipedia.org/wiki/Yerington_Municipal_Airport,,50,2014-09-15T00:35:16+00:00
+3656,KLSV,medium_airport,"Nellis Air Force Base",36.2361984253,-115.033996582,1870,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,KLSV,LSV,LSV,http://www.nellis.af.mil/,https://en.wikipedia.org/wiki/Nellis_Air_Force_Base,"McCarran Field, Las Vegas AAF, Las Vegas AFB",400,2015-02-28T22:40:57+00:00
+18966,K67L,medium_airport,"Mesquite International Airport",36.833105,-114.055928,1978,NA,"United States",US,Nevada,US-NV,NV,Mesquite,0,,MFH,67L,http://www.cityofmesquite.com/457/Airport-Mesquite-Metro-Airport,https://en.wikipedia.org/wiki/Mesquite_Airport,,250,2022-04-09T17:36:56+00:00
+21379,KWMC,medium_airport,"Winnemucca Municipal Airport",40.8965988159,-117.805999756,4308,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,KWMC,WMC,WMC,,https://en.wikipedia.org/wiki/Winnemucca_Municipal_Airport,,250,2013-06-30T18:44:51+00:00
+18372,K0L7,small_airport,"Jean Airport",35.7682991027832,-115.33000183105469,2832,NA,"United States",US,Nevada,US-NV,NV,Jean,0,K0L7,,0L7,,https://en.wikipedia.org/wiki/Jean_Airport,,50,2008-06-13T14:30:04+00:00
+20091,KHTH,small_airport,"Hawthorne Industrial Airport",38.544399,-118.634002,4215,NA,"United States",US,Nevada,US-NV,NV,Hawthorne,0,KHTH,HTH,HTH,,https://en.wikipedia.org/wiki/Hawthorne_Municipal_Airport_(Nevada),,50,2016-08-06T20:49:34+00:00
+19753,KELY,medium_airport,"Ely Airport Yelland Field",39.29970169,-114.8420029,6259,NA,"United States",US,Nevada,US-NV,NV,Ely,0,KELY,ELY,ELY,,https://en.wikipedia.org/wiki/Ely_Airport,,250,2014-09-12T19:23:09+00:00
+20364,KLOL,medium_airport,"Derby Field",40.0663986206,-118.565002441,3904,NA,"United States",US,Nevada,US-NV,NV,Lovelock,0,KLOL,LOL,LOL,http://pershingcounty.net/index.php/Derby-Field-Airport/derby-field-airport.html,https://en.wikipedia.org/wiki/Derby_Field,,250,2015-07-23T11:31:15+00:00
+19349,KBAM,small_airport,"Battle Mountain Airport",40.598999023400005,-116.874000549,4532,NA,"United States",US,Nevada,US-NV,NV,"Battle Mountain",0,KBAM,BAM,BAM,http://www.battlemountainairport.com/default.htm,https://en.wikipedia.org/wiki/Battle_Mountain_Airport,"Lander County Airport",50,2013-04-20T08:27:49+00:00
+45518,88NV,small_airport,"Black Rock City Airport",40.757303,-119.212861,3912,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,88NV,,88NV,,,BRC,50,2022-09-10T22:25:25+00:00
+18326,K06U,small_airport,"Jackpot Airport/Hayden Field",41.97600173949999,-114.657997131,5213,NA,"United States",US,Nevada,US-NV,NV,Jackpot,0,06U,KPT,06U,,https://en.wikipedia.org/wiki/Jackpot_Airport,,50,2015-02-08T19:52:26+00:00
+21251,KU08,small_airport,"Perkins Field",36.56800079345703,-114.44300079345703,1358,NA,"United States",US,Nevada,US-NV,NV,Overton,0,KU08,,U08,,https://en.wikipedia.org/wiki/Perkins_Field,,50,2008-06-13T14:30:04+00:00
+19345,KSPZ,small_airport,"Silver Springs Airport",39.40299987792969,-119.2509994506836,4269,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,KSPZ,,SPZ,,https://en.wikipedia.org/wiki/Silver_Springs_Airport,"Formerly B08",50,2009-01-01T14:47:35+00:00
+20614,KN58,small_airport,"Tiger Field",39.559600830078125,-119.24099731445312,4346,NA,"United States",US,Nevada,US-NV,NV,Fernley,0,KN58,,N58,,https://en.wikipedia.org/wiki/Tiger_Field,,50,2008-06-13T14:30:04+00:00
+19878,KFLX,small_airport,"Fallon Municipal Airport",39.4990997314,-118.749000549,3963,NA,"United States",US,Nevada,US-NV,NV,Fallon,0,KFLX,FLX,FLX,,https://en.wikipedia.org/wiki/Fallon_Municipal_Airport,,50,2014-09-21T02:47:33+00:00
+23372,NV74,small_airport,"Calvada Meadows Airport",36.271099,-115.995003,2726,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,,,74P,http://www.calvadameadows.com/,https://en.wikipedia.org/wiki/Calvada_Meadows_Airport,NV74,50,2017-03-02T13:40:22+00:00
+22691,N86,small_airport,"Spanish Springs Airport",39.66659927368164,-119.7229995727539,4600,NA,"United States",US,Nevada,US-NV,NV,Reno,0,N86,,N86,,https://en.wikipedia.org/wiki/Spanish_Springs_Airport,,50,2008-06-13T14:30:04+00:00
+19204,K9U3,small_airport,"Austin Airport",39.467998,-117.195,5730,NA,"United States",US,Nevada,US-NV,NV,Austin,0,KTMT,ASQ,TMT,,https://en.wikipedia.org/wiki/Austin_Airport,9U3,50,2018-12-22T13:51:53+00:00
+19412,KBTY,small_airport,"Beatty Airport",36.8610992432,-116.787002563,3170,NA,"United States",US,Nevada,US-NV,NV,Beatty,0,KBTY,BTY,BTY,,https://en.wikipedia.org/wiki/Beatty_Airport,,50,2012-06-21T01:41:25+00:00
+20392,KLWL,small_airport,"Wells Municipal Airport/Harriet Field",41.117099762,-114.92199707,5772,NA,"United States",US,Nevada,US-NV,NV,Wells,0,KLWL,LWL,LWL,http://www.cityofwellsnv.com/airport.shtml,https://en.wikipedia.org/wiki/Wells_Municipal_Airport_(Nevada),,50,2015-02-13T23:44:13+00:00
+3725,KNFL,medium_airport,"Fallon Naval Air Station",39.41659927,-118.7009964,3934,NA,"United States",US,Nevada,US-NV,NV,Fallon,0,KNFL,NFL,NFL,http://www.cnic.navy.mil/regions/cnrsw/installations/nas_fallon.html,https://en.wikipedia.org/wiki/Naval_Air_Station_Fallon,"Van Voorhis Field, Fallon NAS",250,2015-12-12T00:05:44+00:00
+19219,KA34,small_airport,"Dayton Valley Airpark",39.238581,-119.555023,4414,NA,"United States",US,Nevada,US-NV,NV,"Dayton/Carson City",0,,,A34,,,NV11,50,2022-10-23T22:14:40+00:00
+10768,3Q0,small_airport,"Mina Airport",38.38330078125,-118.10099792480469,4552,NA,"United States",US,Nevada,US-NV,NV,Mina,0,3Q0,,3Q0,,,,50,2008-06-13T14:30:04+00:00
+18484,K1L1,small_airport,"Lincoln County Airport",37.787122,-114.420044,4828,NA,"United States",US,Nevada,US-NV,NV,Panaca,0,K1L1,,1L1,,https://en.wikipedia.org/wiki/Lincoln_County_Airport,,50,2022-03-01T13:42:53+00:00
+17171,E85,small_airport,"Denio Junction Airport",41.9541015625,-118.63099670410156,4202,NA,"United States",US,Nevada,US-NV,NV,Denio,0,E85,,E85,,,,50,2008-06-13T14:30:04+00:00
+18321,K05U,small_airport,"Eureka Airport",39.604198455799995,-116.004997253,5954,NA,"United States",US,Nevada,US-NV,NV,Eureka,0,05U,EUE,05U,,https://en.wikipedia.org/wiki/Eureka_Airport_(Nevada),"Booth Bailey Field",50,2014-09-14T16:28:28+00:00
+17573,GAB,small_airport,"Gabbs Airport",38.923173,-117.9572,4700,NA,"United States",US,Nevada,US-NV,NV,Gabbs,0,KGAB,GAB,GAB,,https://en.wikipedia.org/wiki/Gabbs_Airport,,50,2020-12-17T23:29:03+00:00
+7270,0L4,small_airport,"Lida Junction Airport",37.485801696777344,-117.19100189208984,4684,NA,"United States",US,Nevada,US-NV,NV,Goldfield,0,0L4,,0L4,,https://en.wikipedia.org/wiki/Lida_Junction_Airport,,50,2008-06-13T14:30:04+00:00
+45519,NV83,small_airport,"Hadley Airport",38.694098,-117.146752,5744,NA,"United States",US,Nevada,US-NV,NV,"Round Mountain",0,NV83,,NV83,,,,50,2009-12-06T18:30:37+00:00
+20615,KN59,small_airport,"Rosaschi Air Park",38.839401,-119.337997,4809,NA,"United States",US,Nevada,US-NV,NV,Smith,0,,,N59,,https://en.wikipedia.org/wiki/Rosaschi_Air_Park,,50,2020-12-30T09:34:09+00:00
+23333,NV23,small_airport,"Air Sailing Gliderport",39.86906,-119.703026,4300,NA,"United States",US,Nevada,US-NV,NV,Sparks,0,NV23,,NV23,,,,50,2021-10-25T14:14:17+00:00
+9736,2Q5,small_airport,"Parker Carson Airport",39.201583,-119.683444,4939,NA,"United States",US,Nevada,US-NV,NV,"Carson City",0,,,25NV,,,"2Q5, Parker Carson STOLport",50,2017-09-05T23:34:39+00:00
+8555,1NV1,small_airport,"Fallon Southwest Airpark",39.41529846191406,-118.83699798583984,3950,NA,"United States",US,Nevada,US-NV,NV,Fallon,0,1NV1,,1NV1,,,,50,2008-06-13T14:30:04+00:00
+7271,0L5,small_airport,"Goldfield Airport",37.722751,-117.236368,5680,NA,"United States",US,Nevada,US-NV,NV,Goldfield,0,NV50,,NV50,,https://en.wikipedia.org/wiki/Goldfield_Airport,0L5,50,2018-08-03T12:08:44+00:00
+20179,KINS,small_airport,"Creech Air Force Base",36.587200164799995,-115.672996521,3133,NA,"United States",US,Nevada,US-NV,NV,"Indian Springs",0,KINS,INS,INS,http://www.creech.af.mil/,https://en.wikipedia.org/wiki/Creech_Air_Force_Base,,50,2014-05-24T22:15:40+00:00
+22665,N15,small_airport,"Kingston Airport",39.20309829711914,-117.06400299072266,5950,NA,"United States",US,Nevada,US-NV,NV,Kingston,0,N15,,N15,,https://en.wikipedia.org/wiki/Kingston_Airport_(Nevada),,50,2008-06-13T14:30:04+00:00
+18373,K0L9,small_airport,"Echo Bay Airport",36.3111,-114.463997,1535,NA,"United States",US,Nevada,US-NV,NV,Overton,0,K0L9,,0L9,,https://en.wikipedia.org/wiki/Echo_Bay_Airport,,50,2021-12-16T16:35:54+00:00
+23343,NV33,small_airport,"Farias Wheel Airport",38.833199,-119.396004,4848,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,NV33,,NV33,,,,50,2020-12-30T09:35:21+00:00
+334416,US-1304,heliport,"Hoover Dam Lodge Heliport",36.010463,-114.782017,1761,NA,"United States",US,Nevada,US-NV,NV,"Boulder City",0,,,,,,,0,2021-12-13T18:23:03+00:00
+28148,KXTA,medium_airport,"Homey (Area 51) Airport",37.23500061035156,-115.81099700927734,4462,NA,"United States",US,Nevada,US-NV,NV,"Groom Lake",0,KXTA,,,,https://en.wikipedia.org/wiki/Area_51,"Dreamland, Paradise Ranch, Home Base, Watertown Strip",500,2008-06-13T14:30:04+00:00
+19652,KDRA,medium_airport,"Desert Rock Airport",36.6194,-116.032997,3314,NA,"United States",US,Nevada,US-NV,NV,Mercury,0,KDRA,DRA,NV65,,https://en.wikipedia.org/wiki/Desert_Rock_Airport,"Formerly DRA",250,2016-06-22T07:47:06+00:00
+21464,L92,small_airport,"Alamo Landing Field",37.36249923706055,-115.19400024414062,3719,NA,"United States",US,Nevada,US-NV,NV,Alamo,0,L92,,L92,,https://en.wikipedia.org/wiki/Alamo_Landing_Field,,50,2008-06-13T14:30:04+00:00
+19206,K9U7,small_airport,"Currant Ranch Airport",38.736000061035156,-115.4800033569336,5181,NA,"United States",US,Nevada,US-NV,NV,Currant,0,K9U7,,9U7,,,,50,2008-06-13T14:30:04+00:00
+9737,2Q9,small_airport,"Dyer Airport",37.60969924926758,-118.00599670410156,4899,NA,"United States",US,Nevada,US-NV,NV,Dyer,0,2Q9,,2Q9,,https://en.wikipedia.org/wiki/Dyer_Airport,,50,2008-06-13T14:30:04+00:00
+23337,NV27,small_airport,"Circle L Ranch Airport",37.71659851074219,-118.08399963378906,4835,NA,"United States",US,Nevada,US-NV,NV,Dyer,0,NV27,,NV27,,,,50,2008-06-13T14:30:04+00:00
+23340,NV30,small_airport,"Dixie Valley Airport",39.964672,-117.827371,3443,NA,"United States",US,Nevada,US-NV,NV,Fallon,0,NV30,,NV30,,,"Oxbow Geothermal",50,2022-12-30T11:23:14+00:00
+23316,NV05,small_airport,"Soldier Meadow Number 2 Airport",41.123501,-119.139,4150,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,NV05,,NV05,,,"Parman Landing Strip",50,2022-10-27T12:05:45+00:00
+23317,NV06,small_airport,"Soldier Meadow Number 1 Airport",41.382702,-119.168999,4494,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,NV06,,NV06,,,,50,2022-10-27T12:05:15+00:00
+329459,US-0986,small_airport,"Dead Cow Lakebed Airstrip",40.147755,-119.907335,4845,NA,"United States",US,Nevada,US-NV,NV,"Herlong, CA",0,,,HSFIDCL,http://www.stoldrag.com,,"High Sierra Fly-In",50,2018-10-15T12:43:52+00:00
+23351,NV42,closed,"Heritage Airport",35.775799,-115.631394,2575,NA,"United States",US,Nevada,US-NV,NV,Jean,0,,,,,,NV42,50,2022-12-28T18:31:58+00:00
+20290,KL23,small_airport,"Pahute Mesa Airstrip",37.102109,-116.312835,5068,NA,"United States",US,Nevada,US-NV,NV,Mercury,0,,,L23,,,,50,2022-10-20T15:51:28+00:00
+350706,US-6154,small_airport,"Callville Bay Airport",36.14527,-114.71799,1203,NA,"United States",US,Nevada,US-NV,NV,Overton,0,,,,,,,50,2021-12-16T16:33:05+00:00
+6731,03NV,small_airport,"Llama Ranch Airport",40.58440017700195,-115.2979965209961,6120,NA,"United States",US,Nevada,US-NV,NV,"Ruby Valley",0,03NV,,03NV,,,,50,2008-06-13T14:30:04+00:00
+18715,K3L2,small_airport,"Sky Ranch Airport",35.7952995300293,-115.62699890136719,2599,NA,"United States",US,Nevada,US-NV,NV,"Sandy Valley",0,K3L2,,3L2,,https://en.wikipedia.org/wiki/Sky_Ranch_Airport_(Nevada),,50,2008-06-13T14:30:04+00:00
+18485,K1L3,small_airport,"Searchlight Airport",35.444400787353516,-114.90899658203125,3410,NA,"United States",US,Nevada,US-NV,NV,Searchlight,0,K1L3,,1L3,,https://en.wikipedia.org/wiki/Searchlight_Airport,,50,2008-06-13T14:30:04+00:00
+336605,US-1854,small_airport,"Tire Shop / Orange Lane Airstrip",39.44066,-119.20135,4275,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,50,2020-10-12T16:44:15+00:00
+21208,KTNX,small_airport,"Tonopah Test Range Airport",37.7988014221,-116.78099823,5549,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,KTNX,XSD,TNX,,https://en.wikipedia.org/wiki/Tonopah_Test_Range_Airport,,50,2013-06-29T05:39:44+00:00
+23370,NV72,small_airport,"Sweetwater (USMC) Airport",38.509799957300004,-119.217002869,6837,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,NV72,,NV72,,,,50,2009-12-08T20:03:38+00:00
+23377,NV97,small_airport,"Desert Creek Airport",38.684200286865234,-119.3219985961914,5358,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,NV97,,NV97,,,,50,2008-06-13T14:30:04+00:00
+23321,NV10,closed,"Car Country Heliport",35.987999,-114.926003,2300,NA,"United States",US,Nevada,US-NV,NV,Henderson,0,,,,,,NV10,25,2020-02-29T09:30:14+00:00
+7428,0NV1,heliport,"Summerlin Medical Center Heliport",36.18192,-115.31647,2745,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,0NV1,,0NV1,,,,25,2021-12-15T15:55:47+00:00
+23314,NV03,closed,"Las Vegas Helicopters Heliport",36.108101,-115.174004,2133,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,NV03,25,2021-11-12T16:19:18+00:00
+23339,NV29,closed,"Excalibur Hotel/Casino Heliport",36.09814,-115.175405,2375,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,NV29,25,2021-11-12T16:18:02+00:00
+23354,NV48,heliport,"Circus Circus Heliport",36.137421,-115.16821,2122,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,NV48,,NV48,,,,25,2021-11-12T16:22:59+00:00
+350508,US-6011,heliport,"Hoover Dam Lakeview Heliport",36.01514,-114.75693,1592,NA,"United States",US,Nevada,US-NV,NV,"Boulder City",0,,,,,,,0,2021-12-13T18:24:32+00:00
+350476,US-5996,closed,"D4C Ranch Airport",36.12484,-115.19534,2174,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-12-13T10:54:20+00:00
+350477,US-5997,closed,"Sky Corral Airport",36.13254,-115.17981,2134,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-12-13T10:55:10+00:00
+350479,US-5999,closed,"Whitney Airport",36.10431,-115.04439,1663,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-12-13T11:08:09+00:00
+350505,US-6010,closed,"Anderson Field / Rockwell Field",36.13583,-115.14532,2044,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-12-13T17:51:07+00:00
+34930,US-0001,small_airport,"Flying M Ranch Airport",38.61127,-119.001718,4922,NA,"United States",US,Nevada,US-NV,NV,,0,,,3A5,,https://en.wikipedia.org/wiki/Flying-M_Ranch,,50,2022-09-10T13:05:47+00:00
+352543,US-6447,small_airport,"Gunderson Airport",37.67236,-115.84327,4836,NA,"United States",US,Nevada,US-NV,NV,Alamo,0,,,,,,,50,2022-02-09T18:00:21+00:00
+352544,US-6448,small_airport,"Penoyer Farms Airport",37.6551,-115.78624,4797,NA,"United States",US,Nevada,US-NV,NV,Alamo,0,,,,,,,50,2022-02-09T18:01:53+00:00
+352545,US-6449,small_airport,"Rachel Airport",37.65902,-115.71245,4885,NA,"United States",US,Nevada,US-NV,NV,Alamo,0,,,,,,,50,2022-02-09T18:04:22+00:00
+23346,NV36,closed,"Imvite Airport",36.447701,-116.454002,2250,NA,"United States",US,Nevada,US-NV,NV,"Amargosa Valley",0,,,,,,NV36,50,2022-03-01T11:44:38+00:00
+353167,US-6614,small_airport,"Amargosa Valley Airport",36.48892,-116.41944,2283,NA,"United States",US,Nevada,US-NV,NV,"Amargosa Valley",0,,,,,,,50,2022-03-01T11:43:31+00:00
+343011,US-3584,small_airport,"Ash Springs Landing Strip",37.45145,-115.17342,3582,NA,"United States",US,Nevada,US-NV,NV,"Ash Springs",0,,,,,,,50,2021-04-14T18:53:53+00:00
+23313,NV02,small_airport,"O'Toole Ranch Airport",39.0669,-117.420312,6520,NA,"United States",US,Nevada,US-NV,NV,Austin,0,NV02,,NV02,,,,50,2020-12-17T23:32:56+00:00
+23345,NV35,small_airport,"Hudson Airport",39.54439926147461,-117.7509994506836,5180,NA,"United States",US,Nevada,US-NV,NV,Austin,0,NV35,,NV35,,,,50,2008-06-13T14:30:04+00:00
+324404,05NV,small_airport,"Baker Ranches Airport",39.0311,-114.088219,5180,NA,"United States",US,Nevada,US-NV,NV,Baker,0,05NV,,05NV,,,,50,2017-07-13T00:45:31+00:00
+324410,07NV,small_airport,"Border Line Farm Airport",39.102239,-114.053472,5120,NA,"United States",US,Nevada,US-NV,NV,Baker,0,07NV,,07NV,,,,50,2017-07-13T09:39:54+00:00
+324414,06NV,small_airport,"Silver Creek Airport",39.098333,-114.150277,5556,NA,"United States",US,Nevada,US-NV,NV,Baker,0,06NV,,06NV,,,,50,2017-07-13T23:02:49+00:00
+23366,NV64,small_airport,"Swanson Ranch 3 Airport",40.00830078125,-117.39199829101562,4940,NA,"United States",US,Nevada,US-NV,NV,"Battle Mountain",0,NV64,,NV64,,,,50,2008-06-13T14:30:04+00:00
+8402,1L4,small_airport,"Kidwell Airport",35.305547,-114.88236,2605,NA,"United States",US,Nevada,US-NV,NV,"Cal Nev Ari",0,K1L4,,1L4,,https://en.wikipedia.org/wiki/Kidwell_Airport,,50,2022-07-29T11:30:29+00:00
+23324,NV13,small_airport,"Bailey Ranch Airport",39.282798767089844,-119.8280029296875,5060,NA,"United States",US,Nevada,US-NV,NV,"Carson City",0,NV13,,NV13,,,,50,2008-06-13T14:30:04+00:00
+343071,US-3634,small_airport,"Bumpy Airstrip",39.14763,-119.48718,8420,NA,"United States",US,Nevada,US-NV,NV,"Carson City",0,,,,,,"Lyon Peak North",50,2021-04-15T04:05:10+00:00
+348348,US-5456,small_airport,"Coaldale Airport",38.02679,-117.88914,4664,NA,"United States",US,Nevada,US-NV,NV,Coaldale,0,,,,,,,50,2021-10-05T16:51:42+00:00
+348349,US-5457,small_airport,"Coaldale Junction Airport",38.04306,-117.89703,4572,NA,"United States",US,Nevada,US-NV,NV,Coaldale,0,,,,,,,50,2021-10-05T16:53:05+00:00
+344371,US-4081,small_airport,"Columbus Airport",38.11669,-118.00548,,NA,"United States",US,Nevada,US-NV,NV,Columbus,0,,,,,,,50,2021-05-13T13:21:22+00:00
+25227,U74,small_airport,"Crescent Valley Airport",40.41590118408203,-116.56300354003906,4787,NA,"United States",US,Nevada,US-NV,NV,"Crescent Valley",0,U74,,U74,,,,50,2008-06-13T14:30:04+00:00
+331783,NV89,small_airport,"Red Owl Ranch Airport",40.502333,-116.546769,4850,NA,"United States",US,Nevada,US-NV,NV,"Crescent Valley",0,NV89,,NV89,,,,50,2019-07-28T22:15:09+00:00
+344388,US-4098,small_airport,"Three Shotgun Shells Airfield",39.14796,-119.28873,4705,NA,"United States",US,Nevada,US-NV,NV,Dayton,0,,,,,,,50,2021-05-13T14:03:59+00:00
+344389,US-4099,small_airport,"Too Short Airstrip",39.14952,-119.29388,4711,NA,"United States",US,Nevada,US-NV,NV,Dayton,0,,,,,,,50,2021-05-13T14:07:28+00:00
+344390,US-4100,small_airport,"Hop Skip and Jump / Julian Lane Airstrip",39.1432,-119.30001,4750,NA,"United States",US,Nevada,US-NV,NV,Dayton,0,,,,,,,50,2021-05-13T14:08:25+00:00
+344422,US-4109,small_airport,"Too Many Horses Airstrip",39.19454,-119.40979,,NA,"United States",US,Nevada,US-NV,NV,Dayton,0,,,,,,,50,2021-05-13T15:20:44+00:00
+344423,US-4110,small_airport,"MTB Airstrip",39.1232,-119.40588,,NA,"United States",US,Nevada,US-NV,NV,Dayton,0,,,,,,,50,2021-05-13T15:21:42+00:00
+344944,US-4252,small_airport,"Short Road Airstrip",39.18857,-119.31662,4567,NA,"United States",US,Nevada,US-NV,NV,Dayton,0,,,,,,,50,2021-05-27T16:11:40+00:00
+344946,US-4254,small_airport,"Big Meadow Airstrip",39.17177,-119.44333,6649,NA,"United States",US,Nevada,US-NV,NV,Dayton,0,,,,,,,50,2021-05-27T16:14:07+00:00
+23315,NV04,small_airport,"Marys River Ranch Airport",41.317737,-115.249608,5600,NA,"United States",US,Nevada,US-NV,NV,Deeth,0,NV04,,NV04,,,,50,2022-10-27T13:26:44+00:00
+6629,01U,small_airport,"Duckwater Airport",38.849785,-115.634987,5124,NA,"United States",US,Nevada,US-NV,NV,Duckwater,0,K01U,,01U,,,,50,2022-03-18T13:34:16+00:00
+15666,9CA6,closed,"North Valley Airport",37.869099,-118.095001,4960,NA,"United States",US,Nevada,US-NV,NV,Dyer,0,,,,,,"9CA6, Bishop",50,2022-11-02T12:34:04+00:00
+46183,US-0055,small_airport,"Alkali Hot Springs Airport",37.675,-118.073333,4895,NA,"United States",US,Nevada,US-NV,NV,Dyer,0,,,,,,,50,2021-06-30T11:12:19+00:00
+336443,US-1801,small_airport,"Madame Airport",37.92548,-118.40926,,NA,"United States",US,Nevada,US-NV,NV,Dyer,0,,,,,,,50,2020-10-06T12:45:36+00:00
+346073,US-4693,small_airport,"Wild Creek Airport",37.82798,-118.13084,5315,NA,"United States",US,Nevada,US-NV,NV,Dyer,0,,,,,,,50,2021-06-30T11:08:52+00:00
+7011,08U,small_airport,"Stevens-Crosby Airport",41.515701,-115.860001,6397,NA,"United States",US,Nevada,US-NV,NV,Elko,0,K08U,,08U,,,,50,2022-07-28T15:52:49+00:00
+23332,NV22,small_airport,"Red Rock Ranch Airport",40.31269836425781,-115.89700317382812,6158,NA,"United States",US,Nevada,US-NV,NV,Elko,0,NV22,,NV22,,,,50,2008-06-13T14:30:04+00:00
+326976,US-0844,small_airport,"Willow Creek Trading Post Airport",39.036757,-114.82994,6834,NA,"United States",US,Nevada,US-NV,NV,Ely,0,NV99,,NV99,,,,50,2018-04-05T22:50:07+00:00
+337897,US-2136,small_airport,"Lages Station Landing Strip",40.10015,-114.56329,,NA,"United States",US,Nevada,US-NV,NV,Ely,0,,,,,,,50,2020-12-17T11:55:20+00:00
+337899,US-2138,small_airport,"Cherry Creek Landing Strip",39.8698,-114.87372,,NA,"United States",US,Nevada,US-NV,NV,Ely,0,,,,,,,50,2020-12-17T12:05:00+00:00
+337902,US-2139,small_airport,"Campbell Ranch Landing Strip",39.55528,-114.90672,8,NA,"United States",US,Nevada,US-NV,NV,Ely,0,,,,,,,50,2020-12-17T12:09:27+00:00
+353620,US-6730,small_airport,"Moorman Ranch Airport",39.3668,-115.3139,6481,NA,"United States",US,Nevada,US-NV,NV,Ely,0,,,,,,,50,2022-03-18T16:58:40+00:00
+353689,US-6741,small_airport,"Meadow Creek Ranch Airport",39.52462,-114.51805,5709,NA,"United States",US,Nevada,US-NV,NV,Ely,0,,,,,,,50,2022-03-23T12:28:44+00:00
+8174,1A8,small_airport,"Empire Airport",40.580025,-119.35087,3990,NA,"United States",US,Nevada,US-NV,NV,Empire,0,18NV,,18NV,,https://en.wikipedia.org/wiki/Empire_Airport_(Nevada),1A8,50,2022-02-11T14:32:37+00:00
+23374,NV77,closed,"Empire Farms Airport",40.435699,-119.461998,4085,NA,"United States",US,Nevada,US-NV,NV,Empire,0,,,,,,NV77,50,2019-08-25T21:22:31+00:00
+9118,26NV,small_airport,"Darrow Field",39.453426222299996,-118.866330385,3965,NA,"United States",US,Nevada,US-NV,NV,Fallon,0,26NV,,26NV,,,,50,2010-03-12T14:51:10+00:00
+430600,US-7193,small_airport,"Dixie Valley Bombing Range Airfield",39.24092,-118.24309,4298,NA,"United States",US,Nevada,US-NV,NV,Fallon,0,,,,,,,50,2022-10-20T13:51:51+00:00
+336604,US-1853,small_airport,"Fernley Airfield",39.5798,-119.20263,4209,NA,"United States",US,Nevada,US-NV,NV,Fernley,0,,,,,,,50,2020-10-12T16:42:00+00:00
+23359,NV55,small_airport,"Pinenut Airport",38.89889907836914,-119.64900207519531,5260,NA,"United States",US,Nevada,US-NV,NV,Gardnerville,0,NV55,,NV55,,,,50,2008-06-13T14:30:04+00:00
+23327,NV16,closed,"Lackerman Ranch Airport",40.999298,-119.936996,4706,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,NV16,50,2021-07-28T16:40:30+00:00
+23350,NV41,small_airport,"Sulphur Airport",40.869108,-118.729189,4068,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,NV41,50,2021-05-13T13:05:35+00:00
+344369,US-4079,small_airport,"Barrel Springs Airport",40.77972,-118.72339,,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,,50,2021-05-13T13:03:41+00:00
+353172,US-6619,small_airport,"Smoke Creek Airport",40.58461,-119.9678,4355,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,,50,2022-03-01T12:31:52+00:00
+504511,US-7247,small_airport,"Iveson Ranch Airport",40.94619,-119.37343,4252,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,,50,2022-10-27T12:43:06+00:00
+504512,US-7248,small_airport,"Iveson Ranch West Airport",40.95245,-119.38581,4298,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,,50,2022-10-27T12:46:33+00:00
+506488,US-7539,small_airport,"Pinson Mine Airport",41.13462,-117.22781,4744,NA,"United States",US,Nevada,US-NV,NV,Golconda,0,,,,,,"Osgood Mining Company, Pinson Mining Company",50,2023-02-09T22:02:01+00:00
+506489,US-7540,small_airport,"Upper Clover Ranch Airport",41.16999,-116.9155,4728,NA,"United States",US,Nevada,US-NV,NV,Golconda,0,,,,,,,50,2023-02-09T22:04:21+00:00
+344375,US-4085,small_airport,"Seibeck Mine Airport",37.36002,-117.381901,,NA,"United States",US,Nevada,US-NV,NV,Goldfield,0,,,,,,"Seibeck Mine",50,2021-05-13T13:31:36+00:00
+344376,US-4086,small_airport,"Gold Point Airport",37.36384,-117.36616,,NA,"United States",US,Nevada,US-NV,NV,Goldfield,0,,,,,,,50,2021-05-13T13:32:39+00:00
+336670,US-1874,small_airport,"Nine Mile Ranch Airport",38.38186,-118.93902,,NA,"United States",US,Nevada,US-NV,NV,Hawthorne,0,,,,,,,50,2020-10-13T10:37:42+00:00
+23336,NV26,closed,"Voc Tech Airport",36.079102,-115.069,1913,NA,"United States",US,Nevada,US-NV,NV,Henderson,0,,,,,,NV26,50,2017-06-11T21:09:36+00:00
+353615,US-6725,small_airport,"Cherry Canyon Airport",38.1198,-115.52873,5792,NA,"United States",US,Nevada,US-NV,NV,Hiko,0,,,,,,,50,2022-03-18T16:12:51+00:00
+353617,US-6727,small_airport,"Forest Moon Ranch Airport",38.374293,-115.170057,5233,NA,"United States",US,Nevada,US-NV,NV,Hiko,0,,,,,,"Hot Creek Butte",50,2022-03-18T16:21:03+00:00
+348796,US-5514,small_airport,"Dog Bone Lake Airfield",36.8462,-115.44853,3412,NA,"United States",US,Nevada,US-NV,NV,"Indian Springs",0,,,,,,,50,2021-10-14T17:43:10+00:00
+344372,US-4082,small_airport,"Deer Creek Grade Airport",41.959158,-115.426567,,NA,"United States",US,Nevada,US-NV,NV,Jarbidge,0,,,,,,,50,2021-05-13T13:36:39+00:00
+23328,NV17,small_airport,"Youngberg Ranch Airport",39.67319869995117,-119.81300354003906,4960,NA,"United States",US,Nevada,US-NV,NV,"Lemmon Valley",0,NV17,,NV17,,,,50,2008-06-13T14:30:04+00:00
+344381,US-4091,small_airport,"Lovelock Airport",40.19135,-118.44993,,NA,"United States",US,Nevada,US-NV,NV,Lovelock,0,,,,,,,50,2021-05-13T13:47:24+00:00
+344382,US-4092,small_airport,"Colado Airport",40.24558,-118.39897,,NA,"United States",US,Nevada,US-NV,NV,Lovelock,0,,,,,,,50,2021-05-13T13:49:13+00:00
+506369,NV39,small_airport,"Nevada Airways Airport",40.121106,-118.406528,3904,NA,"United States",US,Nevada,US-NV,NV,Lovelock,0,NV39,,NV39,,,,50,2023-02-02T14:45:23+00:00
+23318,NV07,small_airport,"Sunnyside / Kirch Wildlife Management Area Airport",38.4147,-115.037003,5288,NA,"United States",US,Nevada,US-NV,NV,Lund,0,NV07,,NV07,,,,50,2021-06-30T02:37:44+00:00
+23322,NV11,small_airport,"Yucca Airstrip",36.934661,-116.00596,3919,NA,"United States",US,Nevada,US-NV,NV,Mercury,0,,UCC,,,https://en.wikipedia.org/wiki/Yucca_Airstrip,NV11,50,2022-10-23T21:53:49+00:00
+352541,US-6445,small_airport,"Indian Springs Auxiliary Field Number 1",37.27642,-115.7555,4488,NA,"United States",US,Nevada,US-NV,NV,Mercury,0,,,,,,,50,2022-02-09T17:55:25+00:00
+352542,US-6446,small_airport,"Groom Mine Airstrip",37.31707,-115.77118,4790,NA,"United States",US,Nevada,US-NV,NV,Mercury,0,,,,,,,50,2022-02-09T17:58:44+00:00
+337514,US-2024,small_airport,"Broken Bottles Airstrip",39.02276,-119.65931,,NA,"United States",US,Nevada,US-NV,NV,Minden,0,,,,,,,50,2020-11-30T17:40:29+00:00
+343783,US-3826,small_airport,"Dry Lake Landing Strip",36.46123,-114.88001,1969,NA,"United States",US,Nevada,US-NV,NV,Moapa,0,,,,,,,50,2021-04-29T22:27:25+00:00
+23325,NV14,small_airport,"Juniper Airport",41.355499,-114.230003,5400,NA,"United States",US,Nevada,US-NV,NV,Montello,0,NV14,,NV14,,,,50,2021-05-13T13:27:05+00:00
+23367,NV67,small_airport,"Pilot Creek Ranches Airport",41.11579895019531,-114.11399841308594,4980,NA,"United States",US,Nevada,US-NV,NV,Montello,0,NV67,,NV67,,,,50,2008-06-13T14:30:04+00:00
+344373,US-4083,small_airport,"Gamble Ranch Airport",41.36219,-114.19465,,NA,"United States",US,Nevada,US-NV,NV,Montello,0,,,,,,,50,2021-05-13T13:28:15+00:00
+344374,US-4084,small_airport,"Winecup Gamble Ranch Airport",41.37807,-114.17883,,NA,"United States",US,Nevada,US-NV,NV,Montello,0,,,,,,,50,2021-05-13T13:29:08+00:00
+344385,US-4095,small_airport,"Montello Airport",41.27497,-114.21128,5052,NA,"United States",US,Nevada,US-NV,NV,Montello,0,,,,,,,50,2021-05-13T13:54:59+00:00
+23319,NV08,small_airport,"Petan Ranch Airport",41.737998962402344,-116.21600341796875,5616,NA,"United States",US,Nevada,US-NV,NV,"Mountain City",0,NV08,,NV08,,,,50,2008-06-13T14:30:04+00:00
+344391,US-4101,small_airport,"Byington Ranch Airport",41.73971,-115.97895,5922,NA,"United States",US,Nevada,US-NV,NV,"Mountain City",0,,,,,,"KELG, Van Duzer Creek",50,2022-07-28T15:44:05+00:00
+348730,US-5492,small_airport,"Nixon Airport",39.83582,-119.34948,3967,NA,"United States",US,Nevada,US-NV,NV,Nixon,0,,,,,,,50,2021-10-13T14:00:09+00:00
+23368,NV68,closed,"Pine Grove Airport",41.5635,-117.80961,4250,NA,"United States",US,Nevada,US-NV,NV,Orovada,0,,,,,,NV68,50,2022-10-27T11:56:55+00:00
+504507,US-7239,small_airport,"Morris Ag Air Airport",41.55182,-117.83398,226,NA,"United States",US,Nevada,US-NV,NV,Orovada,0,NV88,,NV88,,,,50,2023-03-30T19:45:08+00:00
+504508,US-7242,small_airport,"Takamara Road West Airport",41.70402,-117.79893,4327,NA,"United States",US,Nevada,US-NV,NV,Orovada,0,,,,,,,50,2022-10-27T12:15:07+00:00
+18402,K10U,small_airport,"Owyhee Airport",41.953604,-116.182155,5374,NA,"United States",US,Nevada,US-NV,NV,Owyhee,0,K10U,,10U,,https://en.wikipedia.org/wiki/Owyhee_Airport,,50,2022-02-11T14:58:34+00:00
+21456,L57,closed,"Hidden Hills Airport",36.006401,-115.862999,2808,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,,,,,,L57,50,2021-10-04T13:52:34+00:00
+23312,NV00,small_airport,"Valley View Airport",36.257954,-115.992379,2740,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,NV00,,NV00,,,,50,2021-10-04T13:49:48+00:00
+23358,NV54,small_airport,"Flying S Ranch Ultralightport",36.30699920654297,-115.98899841308594,2800,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,NV54,,NV54,,,,50,2008-06-13T14:30:04+00:00
+23378,NV98,small_airport,"Caas Airport",36.150299072265625,-115.9000015258789,2800,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,NV98,,NV98,,,,50,2008-06-13T14:30:04+00:00
+14077,7CL8,small_airport,"Geyser Ranch Airport",38.664101,-114.632004,5977,NA,"United States",US,Nevada,US-NV,NV,Pioche,0,7NV8,,7NV8,,,7CL8,50,2020-12-17T12:11:38+00:00
+337904,US-2141,small_airport,"Mount Wilson Guest Ranch Airport",38.25321,-114.46704,,NA,"United States",US,Nevada,US-NV,NV,Pioche,0,,,,,,,50,2020-12-17T12:15:42+00:00
+23320,NV09,small_airport,"H Bar H Airport",39.72439956665039,-119.89900207519531,5220,NA,"United States",US,Nevada,US-NV,NV,Reno,0,NV09,,NV09,,,,50,2008-06-13T14:30:04+00:00
+341454,US-3230,small_airport,"Freedomfox Strip",39.77156,-119.89541,,NA,"United States",US,Nevada,US-NV,NV,Reno,0,,,,https://www.youtube.com/trentpalmer1,,"NV99, Trent Palmer Airstrip",50,2021-10-25T14:16:32+00:00
+348209,77NV,small_airport,"Flying Eagle Airport",39.84355,-119.6865,4222,NA,"United States",US,Nevada,US-NV,NV,Reno,0,77NV,,77NV,,,,50,2021-12-17T22:36:04+00:00
+348210,US-5403,small_airport,"Nefas Airport",39.83173,-119.69416,4274,NA,"United States",US,Nevada,US-NV,NV,Reno,0,,,,,,,50,2021-10-01T14:59:23+00:00
+348211,US-5404,small_airport,"Williams Airport",39.82237,-119.69334,4267,NA,"United States",US,Nevada,US-NV,NV,Reno,0,,,,,,,50,2021-10-01T15:00:24+00:00
+349144,US-5609,small_airport,"Winnemucca Ranch Airport",39.94808,-119.80228,5167,NA,"United States",US,Nevada,US-NV,NV,Reno,0,,,,,,,50,2021-10-25T14:13:46+00:00
+23341,NV31,small_airport,"Barker Creek Ranch Airstrip",38.80580139160156,-117.03099822998047,6620,NA,"United States",US,Nevada,US-NV,NV,"Round Mountain",0,NV31,,NV31,,,,50,2008-06-13T14:30:04+00:00
+23360,NV56,closed,"Wine Glass Ranch Airport",38.7994,-117.175003,5568,NA,"United States",US,Nevada,US-NV,NV,"Round Mountain",0,,,,,,NV56,50,2023-03-30T14:13:51+00:00
+23334,NV24,closed,"Fort Ruby Ranch Airstrip",40.057999,-115.505997,6006,NA,"United States",US,Nevada,US-NV,NV,"Ruby Valley",0,,,,,,NV24,50,2017-12-02T09:05:42+00:00
+6784,04NV,small_airport,"Kingston Ranch Airport",35.7555007935,-115.665000916,2620,NA,"United States",US,Nevada,US-NV,NV,"Sandy Valley",0,04NV,,04NV,,,,50,2009-12-09T16:13:03+00:00
+344778,US-4172,small_airport,"El Dorado Substation Airstrip",35.79271,-115.01256,1821,NA,"United States",US,Nevada,US-NV,NV,Searchlight,0,,,,,,KHEN,50,2021-05-21T00:44:03+00:00
+344958,US-4265,small_airport,"Sail Park Airstrip",39.33959,-119.39216,4259,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,"Misfits Flat",50,2021-05-27T16:35:44+00:00
+344963,US-4269,small_airport,"Good For All Airstrip",39.29383,-119.17876,4209,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,50,2021-05-27T16:39:55+00:00
+344964,US-4270,small_airport,"Railroad Crossing Airstrip",39.27018,-119.27709,4262,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,50,2021-05-27T16:40:41+00:00
+344965,US-4271,small_airport,"Lookout Airstrip",39.24729,-119.19186,5217,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,50,2021-05-27T16:41:59+00:00
+344966,US-4272,small_airport,"Far East Airstrip",39.32819,-118.99023,4281,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,50,2021-05-27T16:42:45+00:00
+9648,2NV2,small_airport,"Gibb Ranch Airport",39.835629,-119.675904,4242,NA,"United States",US,Nevada,US-NV,NV,Sparks,0,2NV2,,2NV2,,,,50,2021-10-01T14:38:04+00:00
+23352,NV44,closed,"Justover Field",39.754584,-119.598167,4480,NA,"United States",US,Nevada,US-NV,NV,Sparks,0,,,,,,NV44,50,2023-02-02T15:26:39+00:00
+23353,NV47,small_airport,"Palomino Airport",39.830786,-119.682663,4240,NA,"United States",US,Nevada,US-NV,NV,Sparks,0,NV47,,NV47,,,,50,2021-10-01T14:37:52+00:00
+23376,NV96,small_airport,"Rolling Thunder Airport",39.823563,-119.658331,4240,NA,"United States",US,Nevada,US-NV,NV,Sparks,0,NV96,,NV96,,,,50,2021-10-01T14:39:05+00:00
+344386,US-4096,small_airport,"Basecamp Airport",38.324189,-116.276976,5228,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,50,2021-05-13T14:00:21+00:00
+348743,US-5498,small_airport,"Twin Springs Ranch Airport",38.20608,-116.17535,5151,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,50,2021-10-13T17:03:28+00:00
+348745,US-5499,small_airport,"Moroni Airport",38.13404,-116.61238,5650,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,50,2021-10-13T18:03:02+00:00
+430602,US-7194,small_airport,"Mellan Airstrip",37.68407,-116.62354,5404,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,50,2022-10-20T14:22:13+00:00
+430603,US-7195,small_airport,"C14 Airport",37.755515,-116.645794,5463,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,50,2022-10-20T14:24:52+00:00
+338358,US-2247,small_airport,"Topaz Overlook Airstrip",38.70642,-119.5219,,NA,"United States",US,Nevada,US-NV,NV,"Topaz Lake",0,,,,,,,50,2020-12-30T09:31:23+00:00
+23323,NV12,small_airport,"I-L Ranch Airport",41.56261,-116.409545,5368,NA,"United States",US,Nevada,US-NV,NV,Tuscarora,0,NV12,,NV12,,,,50,2022-07-28T16:02:49+00:00
+352641,US-6456,small_airport,"Jack Creek Ranch Airport",41.4337,-116.09768,5875,NA,"United States",US,Nevada,US-NV,NV,Tuscarora,0,,,,,,,50,2022-02-11T14:50:51+00:00
+506490,US-7541,small_airport,"Valmy Power Plant Airport",40.86904,-117.13946,4472,NA,"United States",US,Nevada,US-NV,NV,Valmy,0,,,,,,,50,2023-02-09T22:07:09+00:00
+348742,US-5497,small_airport,"Warm Springs Airport",38.18834,-116.36399,5420,NA,"United States",US,Nevada,US-NV,NV,"Warm Springs",0,,,,,,,50,2021-10-13T17:01:02+00:00
+329488,43NV,small_airport,"Topaz Ranch Airport",38.72871,-119.466067,5066,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,43NV,,43NV,,,,50,2018-10-19T22:39:10+00:00
+338356,US-2245,small_airport,"Dry Lake (Short Bread) Landing Strip",38.56848,-119.28114,,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,,,,,,,50,2020-12-30T09:29:31+00:00
+338357,US-2246,small_airport,"Antelope Landing Strip",38.57152,-119.29613,,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,,,,,,,50,2020-12-30T09:30:25+00:00
+338359,US-2248,small_airport,"Bald Mountain (High Boy) Airstrip",38.81114,-119.53289,,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,,,,,,,50,2020-12-30T09:32:20+00:00
+338360,US-2249,small_airport,"Tailwheel Ridge Airstrip",38.86897,-119.49612,,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,,,,,,,50,2020-12-30T09:33:10+00:00
+338361,US-2250,small_airport,"Washoe Ranches Airstrip",38.74341,-119.47266,,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,,,,,,,50,2020-12-30T09:40:44+00:00
+341496,US-3254,small_airport,"One Time Airstrip",38.99715,-119.4427,,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,,,,,,,50,2021-03-01T17:26:30+00:00
+337896,US-2135,small_airport,"Currie Airport",40.2832,-114.76452,,NA,"United States",US,Nevada,US-NV,NV,Wells,0,,,,,,,50,2020-12-17T11:46:59+00:00
+344379,US-4089,small_airport,"Wilkins Airport",41.40538,-114.76472,5886,NA,"United States",US,Nevada,US-NV,NV,Wells,0,,,,,,"Great Basin",50,2021-05-13T13:39:37+00:00
+6671,02NV,small_airport,"Paiute Meadows Airport",41.299551,-118.926709,4443,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,02NV,,02NV,,,,50,2021-05-13T13:43:22+00:00
+344380,US-4090,small_airport,"Leonard Creek Ranch Airport",41.502955,-118.727172,4181,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,,,,,,,50,2021-05-13T13:41:49+00:00
+344387,US-4097,small_airport,"Summit Lake Airport",41.551,-119.04767,5909,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,,,,,,,50,2021-05-13T14:01:46+00:00
+344392,US-4102,small_airport,"Virgin Creek Airport",41.88737,-119.00646,4954,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,,,,,,,50,2021-05-13T14:12:48+00:00
+344393,US-4103,small_airport,"Virgin Valley Ranch Airport",41.79173,-119.104592,5085,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,,,,,,,50,2021-05-13T14:14:43+00:00
+506511,US-7545,small_airport,"Stone House Airport",41.40624,-117.55931,4551,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,,,,,,,50,2023-02-11T06:54:37+00:00
+6615,01NV,small_airport,"Lantana Ranch Airport",38.76390075683594,-119.0270004272461,4600,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,01NV,,01NV,,,,50,2008-06-13T14:30:04+00:00
+335946,US-1538,small_airport,"Quinns Mesa Airstrip",39.129844,-119.367453,,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,,,,,,,50,2020-09-22T14:56:34+00:00
+341495,US-3253,small_airport,"Alkali Lake Landing Area",38.94085,-119.35925,,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,,,,,,,50,2021-03-01T17:25:13+00:00
+343209,US-3710,small_airport,"Wide Load Airstrip",39.11422,-119.11104,4324,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,,,,,,,50,2021-04-18T13:25:51+00:00
+344418,US-4105,small_airport,"Desert Bighorn Flat Airstrip",38.93999,-118.97846,,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,,,,,,,50,2021-05-13T15:16:52+00:00
+344419,US-4106,small_airport,"Easy Street Airstrip",39.06709,-119.32247,,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,,,,,,,50,2021-05-13T15:17:56+00:00
+344420,US-4107,small_airport,"Gold Mine Airstrip",39.0739,-119.33564,,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,,,,,,"Minnesota Mine",50,2021-05-13T15:18:55+00:00
+344421,US-4108,small_airport,"Gold Mine Number 2 Airstrip",39.07119,-119.33769,,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,,,,,,"Minnesota Mine",50,2021-05-13T15:19:49+00:00
+349939,US-5821,small_airport,"Nish Ag Air Airport",39.03227,-119.17657,4364,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,,,,,,,50,2021-11-23T10:50:42+00:00
+23326,NV15,heliport,"Carson-Tahoe Regional Medical Center Heliport",39.20280075073242,-119.78399658203125,4850,NA,"United States",US,Nevada,US-NV,NV,"Carson City",0,NV15,,NV15,,,,25,2008-06-13T14:30:04+00:00
+23363,NV60,heliport,"Carson-Tahoe Hospital Heliport",39.17129898071289,-119.77200317382812,4710,NA,"United States",US,Nevada,US-NV,NV,"Carson City",0,NV60,,NV60,,,,25,2008-06-13T14:30:04+00:00
+8556,1NV2,heliport,"Lake Las Vegas Heliport",36.12480163574219,-114.90899658203125,1380,NA,"United States",US,Nevada,US-NV,NV,Henderson,0,1NV2,,1NV2,,,,25,2008-06-13T14:30:04+00:00
+23335,NV25,heliport,"St Rose de Lima Dominican Hospital Heliport",36.038126,-114.984623,1890,NA,"United States",US,Nevada,US-NV,NV,Henderson,0,NV25,,NV25,,,,25,2021-02-10T14:17:21+00:00
+23342,NV32,heliport,"Nev Fish & Game Reg III Headquarters Heliport",36.1875,-115.20400238,2200,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,NV32,,NV32,,,,25,2009-12-26T15:06:32+00:00
+23344,NV34,heliport,"University Medical Center Southern Nevada Heliport",36.159752,-115.166088,2096,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,NV34,,NV34,,,,25,2021-12-16T11:57:10+00:00
+23348,NV38,heliport,"KLAS-TV Channel 8 Heliport",36.130658,-115.161729,2100,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,NV38,,NV38,,,,25,2021-11-12T16:21:46+00:00
+23349,NV40,heliport,"Action Heliport",35.95000076293945,-115.16699981689453,2460,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,NV40,,NV40,,,,25,2008-06-13T14:30:04+00:00
+23355,NV49,closed,"Hacienda Hotel Heliport",36.091599,-115.174004,2172,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,NV49,25,2018-03-24T21:21:32+00:00
+23356,NV52,closed,"City Hall Complex Heliport",36.172199,-115.140999,2000,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,NV52,25,2018-06-22T00:00:26+00:00
+23357,NV53,heliport,"Valley Hospital Medical Center Heliport",36.162806,-115.168089,2055,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,NV53,,NV53,,,,25,2021-12-16T11:55:58+00:00
+23365,NV63,closed,"Claude I. Howard Heliport",36.083302,-115.176003,2170,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,NV63,25,2021-02-10T14:23:26+00:00
+23379,NV99,closed,"Maverick Heliport",35.934399,-115.181998,2550,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,NV99,25,2018-04-05T22:45:21+00:00
+23373,NV75,heliport,"SCE Mohave Generating Station Heliport",35.151003,-114.592458,705,NA,"United States",US,Nevada,US-NV,NV,Laughlin,0,NV75,,NV75,,,,25,2021-02-10T14:02:55+00:00
+9649,2NV3,heliport,"Vista Del Monte Lot 55 Heliport",36.837922,-114.050432,1978,NA,"United States",US,Nevada,US-NV,NV,Mesquite,0,2NV3,,2NV3,,,,25,2017-01-28T05:44:10+00:00
+10687,3NV3,heliport,"Remlinger Ranch Heliport",39.25910186767578,-119.75499725341797,5090,NA,"United States",US,Nevada,US-NV,NV,"New Washoe City",0,3NV3,,3NV3,,,,25,2008-06-13T14:30:04+00:00
+23364,NV61,heliport,"Gilbert Development Corporation Heliport",36.218791,-115.133528,1981,NA,"United States",US,Nevada,US-NV,NV,"North Las Vegas",0,NV61,,NV61,,,,25,2021-12-16T11:54:06+00:00
+9650,2NV8,heliport,"Mercy Air-Pahrump Heliport",36.191349,-115.986368,2650,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,2NV8,,2NV8,,,,25,2021-10-04T13:44:49+00:00
+23371,NV73,closed,"Precious Materials Heliport",36.341599,-116.049004,2850,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,,,,,,NV73,25,2021-10-04T13:57:40+00:00
+23329,NV19,closed,"Nevada Dept of Wildlife State Headquarters Heliport",39.5396,-119.806999,4500,NA,"United States",US,Nevada,US-NV,NV,Reno,0,,,,,,NV19,25,2019-12-14T21:47:24+00:00
+23338,NV28,closed,"RLB Heliport",39.392399,-119.820999,5707,NA,"United States",US,Nevada,US-NV,NV,Reno,0,,,,,,NV28,25,2023-02-26T14:24:46+00:00
+23361,NV57,heliport,"Renown Regional Medical Center Heliport",39.525248,-119.795741,4504,NA,"United States",US,Nevada,US-NV,NV,Reno,0,NV57,,NV57,,,"Washoe Medical Center Heliport",25,2021-07-02T17:50:58+00:00
+23362,NV58,heliport,"St Mary's Regional Medical Center Heliport",39.53295,-119.818379,4600,NA,"United States",US,Nevada,US-NV,NV,Reno,0,NV58,,NV58,,,,25,2021-07-02T17:52:21+00:00
+23375,NV78,heliport,"Remsa/Care Flight Heliport",39.500999450683594,-119.75199890136719,4400,NA,"United States",US,Nevada,US-NV,NV,Reno,0,NV78,,NV78,,,,25,2008-06-13T14:30:04+00:00
+23331,NV21,heliport,"Sky Ranch Heliport",35.7952995300293,-115.62699890136719,2600,NA,"United States",US,Nevada,US-NV,NV,"Sandy Valley",0,NV21,,NV21,,,,25,2008-06-13T14:30:04+00:00
+23347,NV37,heliport,"El Dorado Substation Heliport",35.795355,-115.007613,1800,NA,"United States",US,Nevada,US-NV,NV,Searchlight,0,NV37,,NV37,,,,25,2021-05-21T00:44:35+00:00
+23369,NV69,heliport,"Northern Nevada Medical Center Heliport",39.50550079345703,-119.69300079345703,4460,NA,"United States",US,Nevada,US-NV,NV,Sparks,0,NV69,,NV69,,,,25,2008-06-13T14:30:04+00:00
+23330,NV20,closed,"Topaz Ranch Heliport",38.761002,-119.533997,580,NA,"United States",US,Nevada,US-NV,NV,Wellington,0,,,,,,NV20,25,2020-03-15T13:14:57+00:00
+355684,NV01,heliport,"Echo Bay Marina Heliport",36.299117,-114.403655,1217,NA,"United States",US,Nevada,US-NV,NV,,0,NV01,,NV01,,,,0,2022-07-16T19:07:53+00:00
+343149,US-3701,closed,"Bonnie Claire Airport",37.20043,-117.18601,4281,NA,"United States",US,Nevada,US-NV,NV,4281,0,,,,,,,0,2021-04-15T16:35:26+00:00
+353616,US-6726,closed,"Civa Airport",38.03033,-115.43767,5164,NA,"United States",US,Nevada,US-NV,NV,Adaven,0,,,,,,,0,2022-03-18T16:14:57+00:00
+343147,US-3699,closed,"Delamar Dry Lake Landing Strip",37.31704,-114.94825,4538,NA,"United States",US,Nevada,US-NV,NV,Alamo,0,,,,,,,0,2021-04-15T16:32:45+00:00
+313849,LTH,closed,"Lathrop Wells Airport / Jackass Aeropark",36.6342,-116.4135,2650,NA,"United States",US,Nevada,US-NV,NV,"Amargosa Valley",0,,,,,https://en.wikipedia.org/wiki/Jackass_Aeropark,"LTH, LTH, U75",0,2015-02-14T20:35:10+00:00
+505830,US-7454,closed,"Campbell Creek Ranch Airport",39.2396,-117.63498,6263,NA,"United States",US,Nevada,US-NV,NV,Austin,0,,,,,,,0,2022-12-30T11:25:53+00:00
+337907,US-2143,closed,"Minerva Landing Strip",38.90173,-114.39038,,NA,"United States",US,Nevada,US-NV,NV,Baker,0,,,,,,,0,2020-12-17T12:21:15+00:00
+337908,US-2144,closed,"Baker Landing Strip",38.9937,-114.1221,5390,NA,"United States",US,Nevada,US-NV,NV,Baker,0,,,,,,,0,2020-12-17T16:43:08+00:00
+332479,53NV,heliport,"Battle Mountain EMS Heliport",40.641031,-116.940891,4515,NA,"United States",US,Nevada,US-NV,NV,"Battle Mountain",0,53NV,,53NV,,,,0,2019-10-17T09:11:57+00:00
+343148,US-3700,closed,"Bonnie Claire Lake Landing Strip",37.1685,-117.1609,4016,NA,"United States",US,Nevada,US-NV,NV,Beatty,0,,,,,,,0,2021-04-15T16:34:43+00:00
+430606,US-7198,closed,"Scottys Junction Airport",37.283617,-117.043962,4030,NA,"United States",US,Nevada,US-NV,NV,Beatty,0,,,,,,,0,2022-10-20T14:48:41+00:00
+430607,US-7199,closed,"Frans Star Ranch Airport",36.93943,-116.72484,3440,NA,"United States",US,Nevada,US-NV,NV,Beatty,0,,,,,,,0,2022-10-20T14:51:54+00:00
+334229,US-1253,heliport,"Boulder City Hospital Heliport",35.9671,-114.843792,2394,NA,"United States",US,Nevada,US-NV,NV,"Boulder City",0,NV16,,NV16,,,,0,2021-12-15T12:38:37+00:00
+341045,US-3126,closed,"Boulder City Municipal Airport / Bullock Field",35.96749,-114.85395,,NA,"United States",US,Nevada,US-NV,NV,"Boulder City",0,,,,,,KBLD,0,2021-02-10T14:05:25+00:00
+341046,US-3127,heliport,"Mead Substation Helipad",35.93011,-114.83705,,NA,"United States",US,Nevada,US-NV,NV,"Boulder City",0,,,,,,,0,2021-02-10T14:06:29+00:00
+341051,US-3132,closed,"Joker Mine Airport",36.0921,-114.1632,,NA,"United States",US,Nevada,US-NV,NV,Bunkerville,0,,,,,,,0,2021-02-10T14:55:32+00:00
+343146,US-3698,closed,"Caliente Flight Strip",37.59964,-114.8557,4863,NA,"United States",US,Nevada,US-NV,NV,Caliente,0,,,,,,"Delamar, 0L2",0,2021-04-15T16:29:38+00:00
+343279,US-3728,closed,"Oxborrow Ranch Landing Field",37.67097,-114.45881,4587,NA,"United States",US,Nevada,US-NV,NV,Caliente,0,,,,,,,0,2021-04-20T13:35:27+00:00
+348798,US-5516,closed,"Acoma Airport",37.55144,-114.17141,5550,NA,"United States",US,Nevada,US-NV,NV,Caliente,0,,,,,,,0,2021-10-14T17:47:47+00:00
+353178,US-6623,closed,"Meadow Valley Airport",37.69074,-114.45015,4596,NA,"United States",US,Nevada,US-NV,NV,Caliente,0,,,,,,,0,2022-03-01T13:44:45+00:00
+430655,US-7209,heliport,"Barrick Goldstrike Mine Heliport",40.97001,-116.3369,5692,NA,"United States",US,Nevada,US-NV,NV,Carlin,0,,,,,,,0,2022-10-23T11:17:06+00:00
+430656,US-7210,closed,"Round Mountain Airport",41.02175,-116.40238,5556,NA,"United States",US,Nevada,US-NV,NV,Carlin,0,,,,,,,0,2022-10-23T11:17:14+00:00
+430657,US-7211,closed,"Carlin Airfield",40.72922,-116.08396,4945,NA,"United States",US,Nevada,US-NV,NV,Carlin,0,,,,,,,0,2022-10-23T11:16:27+00:00
+504516,US-7252,closed,"Deeth Airport",41.06877,-115.27797,5397,NA,"United States",US,Nevada,US-NV,NV,Deeth,0,,,,,,"Deeth Landing Field",0,2022-10-27T13:42:39+00:00
+332727,US-1153,heliport,"Northeastern Nevada Regional Hospital Heliport",40.824431,-115.729981,5265,NA,"United States",US,Nevada,US-NV,NV,Elko,0,NV20,,NV20,,,,0,2020-09-22T16:42:10+00:00
+348767,US-5503,closed,"Wild Horse Airport",41.62175,-115.83907,6354,NA,"United States",US,Nevada,US-NV,NV,Elko,0,,,,,,,0,2021-10-14T11:43:35+00:00
+430421,55NV,heliport,"Pruitt Aviation Heliport",40.742084,-115.494396,5800,NA,"United States",US,Nevada,US-NV,NV,Elko,0,55NV,,55NV,,,,0,2022-10-10T13:56:24+00:00
+353619,US-6729,closed,"Holt Camp Creek Airport",39.13398,-115.04551,6434,NA,"United States",US,Nevada,US-NV,NV,Ely,0,,,,,,,0,2022-03-18T16:56:37+00:00
+353621,US-6731,closed,"Moorman Ranch East Airport",39.35243,-115.3017,6500,NA,"United States",US,Nevada,US-NV,NV,Ely,0,,,,,,,0,2022-03-18T17:05:28+00:00
+353687,US-6739,closed,"Home Ranch Airport",39.40941,-114.50784,5952,NA,"United States",US,Nevada,US-NV,NV,Ely,0,,,,,,,0,2022-03-23T12:07:15+00:00
+353688,US-6740,closed,"Muncy Creek Ranch Airport",39.60178,-114.53586,6083,NA,"United States",US,Nevada,US-NV,NV,Ely,0,,,,,,"Eldridge Ranch",0,2022-03-23T12:11:13+00:00
+336602,US-1851,closed,"Lahontan Field",39.45826,-118.78664,3960,NA,"United States",US,Nevada,US-NV,NV,Fallon,0,,,,,,,0,2020-10-12T16:35:36+00:00
+505991,US-7489,heliport,"Banner Churchill Community Hospital Heliport",39.476945,-118.764976,3962,NA,"United States",US,Nevada,US-NV,NV,Fallon,0,NV26,,NV26,,,,0,2023-01-08T17:25:43+00:00
+337914,US-2145,closed,"Gabbs Landing Strip",38.83832,-117.94615,,NA,"United States",US,Nevada,US-NV,NV,Gabbs,0,,,,,,,0,2020-12-17T23:30:45+00:00
+345649,US-4503,heliport,"Carson Valley Medical Center Gardnerville Heliport",38.92048,-119.71892,4816,NA,"United States",US,Nevada,US-NV,NV,Gardnerville,0,NV03,,NV03,,,,0,2023-03-30T12:58:42+00:00
+344370,US-4080,closed,"Gerlach Airport",40.65479,-119.35476,,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,,0,2021-05-13T13:11:44+00:00
+504513,US-7249,closed,"Iveson Ranch Southeast Airport",40.925932,-119.338174,4116,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,,0,2022-10-27T12:59:51+00:00
+504514,US-7250,closed,"Leadville Canyon South Airport",40.95318,-119.34341,4122,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,,0,2022-10-27T13:12:27+00:00
+505829,US-7453,closed,"Sheldon Refuge Airport",41.85686,-119.59324,6116,NA,"United States",US,Nevada,US-NV,NV,Gerlach,0,,,,,,"Last Chance Ranch",0,2022-12-30T11:19:15+00:00
+430659,US-7213,heliport,"Bureau of Land Management Midas Fire Station",41.20577,-116.77916,5305,NA,"United States",US,Nevada,US-NV,NV,Golconda,0,,,,,,,0,2023-02-09T22:05:02+00:00
+504506,US-7238,closed,"Getchell Landing Strip",41.20479,-117.19159,4893,NA,"United States",US,Nevada,US-NV,NV,Golconda,0,,,,,,,0,2022-10-27T11:52:53+00:00
+344377,US-4087,closed,"Old Camp Airport",37.27116,-117.3507,,NA,"United States",US,Nevada,US-NV,NV,Goldfield,0,,,,,,,0,2021-05-13T13:35:16+00:00
+344378,US-4088,closed,"Stateline Airport",37.29048,-117.39765,,NA,"United States",US,Nevada,US-NV,NV,Goldfield,0,,,,,,,0,2021-05-13T13:35:54+00:00
+504517,US-7253,closed,"Halleck Airport",40.94759,-115.46446,5255,NA,"United States",US,Nevada,US-NV,NV,Halleck,0,,,,,,,0,2022-10-27T13:46:15+00:00
+506855,US-7562,heliport,"Mount Grant Hospital Heliport",38.517258,-118.626814,4399,NA,"United States",US,Nevada,US-NV,NV,Hawthorne,0,NV28,,NV28,,,,0,2023-02-26T14:31:49+00:00
+332247,US-1148,heliport,"Henderson Hospital Heliport",36.072294,-115.029647,1664,NA,"United States",US,Nevada,US-NV,NV,Henderson,0,32NV,,32NV,,,,0,2019-09-21T17:20:19+00:00
+341047,US-3128,heliport,"Railroad Pass Heliport",35.97509,-114.91269,,NA,"United States",US,Nevada,US-NV,NV,Henderson,0,,,,,,,0,2021-02-10T14:09:53+00:00
+341048,US-3129,heliport,"St Rose Dominican Hospital Siena Campus Heliport",36.00364,-115.11469,,NA,"United States",US,Nevada,US-NV,NV,Henderson,0,,,,,,,0,2021-02-10T14:19:48+00:00
+349537,US-5656,closed,"Creech Air Force Base Auxiliary Airfield",36.6416,-115.65891,3051,NA,"United States",US,Nevada,US-NV,NV,"Indian Springs",0,,,,,,,0,2021-11-08T17:07:18+00:00
+507631,NV80,heliport,"Ruby 360 Lodge Heliport",40.716936,-115.415686,6820,NA,"United States",US,Nevada,US-NV,NV,Lamoille,0,NV80,,NV80,,,,0,2023-03-30T14:37:39+00:00
+45520,2VE2,heliport,"Spring Valley Hospital Heliport",36.091026,-115.239359,2375,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,2VE2,,2VE2,,,,0,2021-02-10T14:20:55+00:00
+45959,NV62,closed,"Valley Medical Center Heliport",36.162781,-115.168087,2057,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,"NV62, NV62, NV62",0,2021-12-16T11:56:33+00:00
+330685,NV86,heliport,"Sunrise Medical Center Heliport",36.132624,-115.135511,2037,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,NV86,,NV86,,,,0,2021-11-12T16:23:23+00:00
+332767,3NV1,heliport,"Desert Springs Hospital Heliport",36.112528,-115.124214,1967,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,3NV1,,3NV1,,,,0,2019-12-02T17:35:23+00:00
+333478,64NV,heliport,"St Rose Dominican San Martin Campus Heliport",36.058242,-115.273114,2622,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,64NV,,64NV,,,,0,2020-02-29T11:46:54+00:00
+341049,US-3130,closed,"Barton Field",36.01288,-115.2498,,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-02-10T14:26:58+00:00
+341050,US-3131,heliport,"Sunrise Mountain View Hospital Heliport",36.21432,-115.24838,,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,10NV,,,,0,2021-09-24T00:53:47+00:00
+343413,US-3762,heliport,"UMC Trauma Center Heliport",36.160894,-115.168145,,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-12-16T11:55:14+00:00
+349698,US-5730,heliport,"Las Vegas Motor Speedway Infield Heliport",36.27141,-115.01279,1954,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-11-12T16:15:36+00:00
+349699,US-5731,heliport,"Las Vegas Motor Speedway Heliport",36.26737,-115.01574,1948,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-11-12T16:16:24+00:00
+350478,US-5998,closed,"Porters Airport",36.15065,-115.19692,2181,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-12-13T10:56:28+00:00
+350600,US-6057,heliport,"Southern Hills Hospital Heliport",36.07367,-115.29625,2564,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,,,,,,,0,2021-12-15T16:29:37+00:00
+350655,US-6107,heliport,"Centennial Hills Medical Center Heliport",36.28788,-115.28583,2570,NA,"United States",US,Nevada,US-NV,NV,"Las Vegas",0,NV56,,NV56,,,,0,2023-03-30T14:21:04+00:00
+355686,NV18,heliport,"Logandale Fire/EMS Heliport",36.673281,-114.524639,1798,NA,"United States",US,Nevada,US-NV,NV,Logandale,0,NV18,,NV18,,,,0,2022-07-16T19:19:20+00:00
+332786,US-1165,heliport,"Pershing General Hospital Heliport",40.176367,-118.481444,4270,NA,"United States",US,Nevada,US-NV,NV,Lovelock,0,NV19,,NV19,,,,0,2020-09-22T16:42:46+00:00
+344383,US-4093,closed,"Humboldt Intermediate Field",40.08556,-118.15599,,NA,"United States",US,Nevada,US-NV,NV,Lovelock,0,,,,,,,0,2021-05-13T13:50:17+00:00
+353618,US-6728,closed,"Butterfield Springs Airport",38.444875,-115.012313,5310,NA,"United States",US,Nevada,US-NV,NV,Lund,0,,,,,,,0,2022-03-18T16:52:53+00:00
+348280,US-5428,closed,"Desert Rock Army Airfield",36.64877,-116.01057,3661,NA,"United States",US,Nevada,US-NV,NV,Mercury,0,,,,,,,0,2021-10-04T15:10:29+00:00
+333420,99NV,heliport,"Mesa View Regional Hospital Heliport",36.810119,-114.116905,1656,NA,"United States",US,Nevada,US-NV,NV,Mesquite,0,99NV,,99NV,,,,0,2021-12-15T16:17:59+00:00
+350512,US-6013,closed,"Mesquite Airport (1953)",36.81408,-114.05186,1766,NA,"United States",US,Nevada,US-NV,NV,Mesquite,0,,,,,,,0,2021-12-13T18:28:17+00:00
+344384,US-4094,closed,"Marietta Airport",38.24078,-118.33755,,NA,"United States",US,Nevada,US-NV,NV,Mina,0,,,,,,,0,2021-05-13T13:52:52+00:00
+344213,US-3960,closed,"Glendale Airport",36.66906,-114.57282,,NA,"United States",US,Nevada,US-NV,NV,Moapa,0,,,,,,,0,2021-05-11T20:21:27+00:00
+351034,US-6276,heliport,"Silverhawk Generating Station Heliport",36.41133,-114.95959,2503,NA,"United States",US,Nevada,US-NV,NV,Moapa,0,,,,,,,0,2021-12-28T17:21:27+00:00
+351035,US-6277,heliport,"Harry Allen Generating Station Heliport",36.4298,-114.90095,2090,NA,"United States",US,Nevada,US-NV,NV,Moapa,0,,,,,,,0,2021-12-28T17:22:26+00:00
+504599,US-7276,closed,"Oasis Airport",40.99737,-114.44976,5722,NA,"United States",US,Nevada,US-NV,NV,Montello,0,,,,,,,0,2022-11-01T13:24:52+00:00
+343386,US-3755,closed,"Slide Mountain Gliderport",39.31328,-119.81246,5105,NA,"United States",US,Nevada,US-NV,NV,"New Washoe City",0,,,,,,,0,2021-04-22T16:20:52+00:00
+325685,US-0756,heliport,"Dignity Health St. Rose Dominican Hospital North Las Vegas Campus Heliport",36.240802,-115.163186,2096,NA,"United States",US,Nevada,US-NV,NV,"North Las Vegas",0,NV24,,NV24,,,"Emerus Heliport",0,2021-12-16T11:53:28+00:00
+504509,US-7243,closed,"Takamara Road East Airport",41.70786,-117.78297,4344,NA,"United States",US,Nevada,US-NV,NV,Orovada,0,,,,,,,0,2022-10-27T12:16:08+00:00
+504510,US-7246,closed,"King River Ranch Airport",41.76759,-118.22021,4242,NA,"United States",US,Nevada,US-NV,NV,Orovada,0,,,,,,"Rio King Ranch Airport",0,2022-10-27T12:23:20+00:00
+505296,US-7376,heliport,"Owyhee Hospital Heliport",41.950943,-116.098554,5454,NA,"United States",US,Nevada,US-NV,NV,Owyhee,0,NV11,,NV11,,,,0,2022-12-06T15:35:41+00:00
+343012,US-3585,closed,"Ash Meadows Sky Ranch",36.35834,-116.29556,2210,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,,,,,,"Ash Meadows Airport",0,2021-04-15T16:37:36+00:00
+343150,US-3702,closed,"Chicken Ranch Airport",36.06877,-115.95254,2595,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,,,,,,,0,2021-04-15T16:39:09+00:00
+348277,US-5425,closed,"Pahrump Landing Strip",36.19533,-115.98348,2680,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,,,,,,,0,2021-10-04T13:44:06+00:00
+348278,US-5426,heliport,"Pahrump Medical Center Heliport",36.19171,-115.98697,2654,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,,,,,,,0,2021-10-04T13:46:17+00:00
+348279,US-5427,heliport,"Desert View Hospital Heliport",36.21526,-116.0261,2587,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,NV36,,NV36,,,,0,2023-03-30T13:38:08+00:00
+350107,90NV,heliport,"KPVM Television Heliport",36.206451,-115.96006,2695,NA,"United States",US,Nevada,US-NV,NV,Pahrump,0,90NV,,90NV,,,,0,2021-11-30T20:18:37+00:00
+336309,US-1743,closed,"4 R Ranch Landing Strip",41.422713,-117.449384,4452,NA,"United States",US,Nevada,US-NV,NV,"Paradise Valley",0,,,,,,,0,2020-09-30T14:07:58+00:00
+506510,US-7544,closed,"Paradise Valley Airport",41.48266,-117.53228,4511,NA,"United States",US,Nevada,US-NV,NV,"Paradise Valley",0,,,,,,,0,2023-02-11T06:53:00+00:00
+337903,US-2140,closed,"Pioche Airport",38.00329,-114.51249,,NA,"United States",US,Nevada,US-NV,NV,Pioche,0,,,,,,,0,2020-12-17T12:14:05+00:00
+337905,US-2142,closed,"Lake Valley Landing Strip",38.3638,-114.5524,5968,NA,"United States",US,Nevada,US-NV,NV,Pioche,0,,,,,,,0,2020-12-17T16:49:34+00:00
+350601,US-6058,heliport,"Primm Heliport",35.61419,-115.38044,2628,NA,"United States",US,Nevada,US-NV,NV,Primm,0,,,,,,,0,2021-12-15T16:33:10+00:00
+355896,US-7036,heliport,"Walter M Higgins Generating Station Heliport",35.61483,-115.35519,2781,NA,"United States",US,Nevada,US-NV,NV,Primm,0,,,,,,,0,2022-07-29T11:40:18+00:00
+329837,US-1019,closed,"Airlift Helicopters Heliport",39.616917,-119.895933,5355,NA,"United States",US,Nevada,US-NV,NV,Reno,0,,,,,,50NV,0,2018-12-15T00:51:51+00:00
+331199,US-1118,heliport,"Freedom Helipad",39.552157,-119.836323,4850,NA,"United States",US,Nevada,US-NV,NV,Reno,0,NV77,,NV77,,,Pathfinder,0,2021-07-20T13:57:21+00:00
+348768,US-5504,closed,"Sutcliffe Airport",39.94224,-119.60579,3960,NA,"United States",US,Nevada,US-NV,NV,Reno,0,,,,,,,0,2021-10-14T11:45:38+00:00
+506373,US-7523,heliport,"Northern Nevada Sierra Medical Center Heliport",39.465673,-119.769658,4451,NA,"United States",US,Nevada,US-NV,NV,Reno,0,NV49,,NV49,,,,0,2023-02-02T16:05:20+00:00
+331698,NV93,heliport,"Fly Sin City #3 Heliport",35.844903,-115.556925,3675,NA,"United States",US,Nevada,US-NV,NV,"Sandy Valley",0,NV93,,NV93,,,,0,2019-07-18T22:26:32+00:00
+331823,NV91,heliport,"Fly Sin City #1 Heliport",35.844903,-115.5482,4331,NA,"United States",US,Nevada,US-NV,NV,"Sandy Valley",0,NV91,,NV91,,,,0,2019-08-03T16:30:05+00:00
+331824,NV92,heliport,"Fly Sin City #2 Heliport",35.849294,-115.555275,3727,NA,"United States",US,Nevada,US-NV,NV,"Sandy Valley",0,NV92,,NV92,,,,0,2019-08-03T16:35:04+00:00
+333474,US-1212,heliport,"Renegades Mines Partners LLC Heliport",35.494674,-114.891148,3767,NA,"United States",US,Nevada,US-NV,NV,Searchlight,0,NV10,,NV10,,,,0,2021-02-10T14:03:30+00:00
+348347,US-5455,closed,"Silver Peak Airport",37.76637,-117.62967,4250,NA,"United States",US,Nevada,US-NV,NV,"Silver Peak",0,,,,,,,0,2021-10-05T16:48:17+00:00
+336603,US-1852,seaplane_base,"Ski Pond Floatplane Strip",39.41836,-119.09629,,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,0,2020-10-12T16:40:52+00:00
+336606,US-1855,closed,"Stump Alley Airstrip",39.415723,-119.170396,,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,0,2021-05-27T16:38:42+00:00
+336607,US-1856,closed,"Sand Point Airstrip",39.401929,-119.188249,,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,0,2021-05-27T16:38:18+00:00
+336608,US-1857,closed,"Dory's Place Airstrip",39.401366,-119.172285,,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,0,2021-05-27T16:38:27+00:00
+344959,US-4266,closed,"Mooneys Mudhole Airstrip",39.37366,-119.17745,,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,0,2021-05-27T16:36:38+00:00
+344960,US-4267,closed,"Bowling Alley Airstrip",39.36911,-119.1599,,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,0,2021-05-27T16:37:17+00:00
+344961,US-4268,closed,"Wild Horses Airstrip",39.34959,-119.13121,,NA,"United States",US,Nevada,US-NV,NV,"Silver Springs",0,,,,,,,0,2021-05-27T16:38:01+00:00
+506509,US-7543,heliport,"Frank A Tracy Generating Station Heliport",39.56161,-119.52191,4284,NA,"United States",US,Nevada,US-NV,NV,Sparks,0,,,,,,,0,2023-02-11T06:50:18+00:00
+504519,US-7254,closed,"Sherman Airport",40.09435,-115.70471,6138,NA,"United States",US,Nevada,US-NV,NV,"Spring Creek",0,,,,,,,0,2022-10-27T14:15:44+00:00
+344424,US-4111,closed,"Lambertucci Airport",38.08936,-117.27565,,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2021-05-13T15:26:07+00:00
+430267,US-7139,closed,"Currant Southeast Airport",38.72325,-115.45959,5256,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2022-09-29T13:59:54+00:00
+430604,US-7196,closed,"Silent Butte Target Airfield",37.37728,-116.46684,5328,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2022-10-20T14:28:16+00:00
+430605,US-7197,closed,"Gold Flat Target Airfield",37.42488,-116.65547,5265,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2022-10-20T15:50:02+00:00
+430608,US-7200,closed,"Pahute Mesa South Target Airfield",37.36475,-116.8289,5312,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2022-10-20T15:49:55+00:00
+430609,US-7201,closed,"Pahute Mesa North Target Airfield",37.43041,-116.85282,5413,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2022-10-20T15:49:48+00:00
+430610,US-7202,closed,"Civet Cat Canyon Target Airfield",37.59178,-116.92259,4849,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2022-10-20T15:49:42+00:00
+430611,US-7203,heliport,"Tonopah Test Range ECW Heliport",37.71217,-116.44342,5712,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2022-10-20T15:49:15+00:00
+430614,US-7204,closed,"Electronic Warfare Target Airfield",37.40207,-116.2414,5436,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2022-10-20T16:17:50+00:00
+430615,US-7205,closed,"Indian Springs Auxiliary Field Number 2",37.53418,-116.49489,5197,NA,"United States",US,Nevada,US-NV,NV,Tonopah,0,,,,,,,0,2022-10-20T16:22:32+00:00
+430658,US-7212,closed,"Tuscarora Airport",41.31113,-116.21347,6086,NA,"United States",US,Nevada,US-NV,NV,Tuscarora,0,,,,,,,0,2022-10-23T11:28:17+00:00
+430660,US-7214,closed,"Tuscarora South Airport",41.28115,-116.22648,5932,NA,"United States",US,Nevada,US-NV,NV,Tuscarora,0,,,,,,,0,2022-10-23T11:36:22+00:00
+343144,US-3696,closed,"Bush-Leland Airport",40.72417,-114.08337,4380,NA,"United States",US,Nevada,US-NV,NV,"West Wendover",0,,,,,,,0,2021-04-15T16:21:51+00:00
+343145,US-3697,closed,"Buffalo Valley Intermediate Field",40.35044,-117.34665,4649,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,,,,,,,0,2021-04-15T16:25:02+00:00
+350109,22NV,heliport,"Humboldt General Hospital EMS Heliport",40.972073,-117.728859,4336,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,22NV,,22NV,,,,0,2021-11-30T20:58:12+00:00
+505514,US-7411,closed,"Hot Springs Ranch Airport",40.76454,-117.47596,4633,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,,,,,,,0,2022-12-15T15:28:51+00:00
+506512,US-7546,closed,"Cottonwood Creek Airport",41.28224,-117.57653,4343,NA,"United States",US,Nevada,US-NV,NV,Winnemucca,0,,,,,,,0,2023-02-11T06:55:57+00:00
+335945,US-1537,closed,"Power Line Lake Bed Airstrip",39.143026,-119.397767,,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,,,,,,,0,2020-09-22T14:34:40+00:00
+506371,US-7522,heliport,"South Lyon County Hospital Heliport",38.984481,-119.167838,4393,NA,"United States",US,Nevada,US-NV,NV,Yerington,0,NV44,,NV44,,,,0,2023-02-02T15:48:35+00:00
