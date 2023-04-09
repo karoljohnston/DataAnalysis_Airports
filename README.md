@@ -18,3 +18,4 @@ Data sources: <br>
 • https://www.kaggle.com/datasets/catsudon/las-flight-arrivals-2019<br>
 I looked at ways to create metrics from the raw data using PowerBI. I have cleaned the data using PowerQuery - deleted unnecessary data, removed duplicates, and filled empty cells with appropriate/correct data (e.g. Airport was missing its IATA code) then I have connected two datas together - general airport information and airports with airline and delays dataset
 ![image](https://user-images.githubusercontent.com/116242651/230508555-a2a8f7ff-4998-405c-a9de-721a38ebb329.png)
+<b> Day 3 (04/08/2023) </b> - I will start on doing the documentation first this coming week so I can have a concrete plan on what sort of data analysis I want to produce
